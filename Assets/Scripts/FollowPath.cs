@@ -74,7 +74,7 @@ public class FollowPath : MonoBehaviour
 
     }
 
-    // Devuelve el waypoint mas cercano al tanque
+    //se devuelve el waypoint mas cercano al tanque
     GameObject GetClosestWP()
     {
         GameObject closest = wps[0];
